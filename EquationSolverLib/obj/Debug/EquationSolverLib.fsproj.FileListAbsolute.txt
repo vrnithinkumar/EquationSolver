@@ -1,0 +1,13 @@
+C:\Workspace\Github\EquationSolver\EquationSolverLib\bin\Debug\EquationSolverLib.XML
+C:\Workspace\Github\EquationSolver\EquationSolverLib\bin\Debug\EquationSolverLib.dll
+C:\Workspace\Github\EquationSolver\EquationSolverLib\bin\Debug\EquationSolverLib.pdb
+C:\Workspace\Github\EquationSolver\EquationSolverLib\bin\Debug\FSharp.Core.dll
+C:\Workspace\Github\EquationSolver\EquationSolverLib\bin\Debug\FSharp.Data.dll
+C:\Workspace\Github\EquationSolver\EquationSolverLib\bin\Debug\System.ValueTuple.dll
+C:\Workspace\Github\EquationSolver\EquationSolverLib\bin\Debug\FSharp.Data.pdb
+C:\Workspace\Github\EquationSolver\EquationSolverLib\bin\Debug\FSharp.Data.xml
+C:\Workspace\Github\EquationSolver\EquationSolverLib\bin\Debug\FSharp.Core.xml
+C:\Workspace\Github\EquationSolver\EquationSolverLib\obj\Debug\EquationSolverLib.fsprojResolveAssemblyReference.cache
+C:\Workspace\Github\EquationSolver\EquationSolverLib\obj\Debug\EquationSolverLib.fsproj.CopyComplete
+C:\Workspace\Github\EquationSolver\EquationSolverLib\obj\Debug\EquationSolverLib.dll
+C:\Workspace\Github\EquationSolver\EquationSolverLib\obj\Debug\EquationSolverLib.pdb
